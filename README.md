@@ -1,4 +1,4 @@
-Olá! ============================================================== =============================================================== Olá, sou um estdante de informática apaixonado por tecnologia atualmente estou estudando programação para dispositivos móveis Android 1 mês, com foco em seguir carreiara na área de TI. * 🌍 Estou baseado em Sou
+Olá! sou um estdante de informática apaixonado por tecnologia atualmente estou estudando programação para dispositivos móveis Android 1 mês, com foco em seguir carreiara na área de TI. * 🌍 Estou baseado em Sou
 
 <p alinhar="esquerda">
 

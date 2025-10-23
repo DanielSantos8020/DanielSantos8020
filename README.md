@@ -5,7 +5,7 @@ Meu nome é Daniel, sou um estudante de Informática apaixonado por tecnologia, 
 
 ### Sobre mim
 
-⚡Apenas um estudante adquiriu conhecimento e habilidades!
+⚡Apenas um estudante adquirindo conhecimento e habilidades!
 📚 Estou estudando Lógica de Programação fortalecendo a minha base de programação!
 🎯 Objetivo em aprender a linguagem Java e Kotlin para desenvolvimento de dispositivos móveis android.
 

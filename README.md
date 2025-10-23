@@ -1,4 +1,10 @@
-Olá!👋 Meu nome é Daniel, sou um estudante de Informática apaixonado por tecnologia, atualmente estou estudando programação para dispositivos móveis Android 1 mês, com foco em seguir carreira na área de TI.
+### Olá!👋 
+Meu nome é Daniel, sou um estudante de Informática apaixonado por tecnologia, atualmente estou estudando programação para dispositivos móveis Android 1 mês, com foco em seguir carreira na área de TI.
+
+<p alinhar="esquerda">
+
+### Sobre mim
+
 ⚡Apenas um estudante adquiriu conhecimento e habilidades!
 📚 Estou estudando Lógica de Programação fortalecendo a minha base de programação!
 🎯 Objetivo em aprender a linguagem Java e Kotlin para desenvolvimento de dispositivos móveis android.

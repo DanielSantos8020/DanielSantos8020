@@ -21,9 +21,7 @@
 ###
 
 <p alight="left">⚡Apenas um estudante adquirindo conhecimento e habilidades!</p>
-
 <p alight="left">📚 Estou estudando Lógica de Programação fortalecendo a minha base de programação!</p>
-
 <p alight="left">🎯 Objetivo em aprender a linguagem Java e Kotlin para desenvolvimento de dispositivos móveis android.</p>
 
 ###
@@ -32,7 +30,7 @@
 
 ###
 
-<h3 alight="left">Habilidades</h3>
+<h2 alight="left">Habilidades</h2>
 
 ###
 <div align="left">
@@ -47,7 +45,7 @@
 
 ###
 
-<h4 alight="left">Redes sociais</h4>
+<h2 alight="left">Redes sociais</h2>
 
 ###
 <div align="left">

@@ -4,31 +4,27 @@
 
 ###
 
-<h1>Olá!👋</h1>
+<h1 alight="left">Olá!👋</h1>
 
 ###
 
-Meu nome é Daniel, sou um estudante de Informática apaixonado por tecnologia, atualmente estou estudando programação para dispositivos móveis Android 1 mês, com foco em seguir carreira na área de TI.
+<p alight="left">Meu nome é Daniel, sou um estudante de Informática apaixonado por tecnologia, atualmente estou estudando programação para dispositivos móveis Android 1 mês, com foco em seguir carreira na área de TI.</p>
 
 <p alinhar="esquerda">
 
 ###
 
-<h2>Sobre mim</h2>
+<h2 alight="left">Sobre mim</h2>
 
 ###
 
 ###
 
-⚡Apenas um estudante adquirindo conhecimento e habilidades!
+<p alight="left">⚡Apenas um estudante adquirindo conhecimento e habilidades!</p>
 
-###
+<p alight="left">📚 Estou estudando Lógica de Programação fortalecendo a minha base de programação!</p>
 
-📚 Estou estudando Lógica de Programação fortalecendo a minha base de programação!
-
-###
-
-🎯 Objetivo em aprender a linguagem Java e Kotlin para desenvolvimento de dispositivos móveis android.
+<p alight="left">🎯 Objetivo em aprender a linguagem Java e Kotlin para desenvolvimento de dispositivos móveis android.</p>
 
 ###
 
@@ -36,7 +32,7 @@ Meu nome é Daniel, sou um estudante de Informática apaixonado por tecnologia, 
 
 ###
 
-<h3>Habilidades</h3>
+<h3 alight="left">Habilidades</h3>
 
 ###
 <div align="left">
@@ -51,7 +47,7 @@ Meu nome é Daniel, sou um estudante de Informática apaixonado por tecnologia, 
 
 ###
 
-<h4>Redes sociais</h4>
+<h4 alight="left">Redes sociais</h4>
 
 ###
 <div align="left">

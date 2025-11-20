@@ -4,7 +4,7 @@
 
 ###
 
-###Olá!👋
+<h1>Olá!👋</h1>
 
 ###
 
@@ -14,7 +14,7 @@ Meu nome é Daniel, sou um estudante de Informática apaixonado por tecnologia, 
 
 ###
 
-###Sobre mim
+<h2>Sobre mim</h2>
 
 ###
 
@@ -36,7 +36,7 @@ Meu nome é Daniel, sou um estudante de Informática apaixonado por tecnologia, 
 
 ###
 
-###Habilidades
+<h3>Habilidades</h3>
 
 ###
 <div align="left">
@@ -51,7 +51,7 @@ Meu nome é Daniel, sou um estudante de Informática apaixonado por tecnologia, 
 
 ###
 
-###Redes sociais
+<h4>Redes sociais</h4>
 
 ###
 <div align="left">

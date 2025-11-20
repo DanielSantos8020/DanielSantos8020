@@ -4,7 +4,7 @@
 
 ###
 
-Olá!👋
+###Olá!👋
 
 ###
 
@@ -14,7 +14,7 @@ Meu nome é Daniel, sou um estudante de Informática apaixonado por tecnologia, 
 
 ###
 
-Sobre mim
+###Sobre mim
 
 ###
 
@@ -24,11 +24,7 @@ Sobre mim
 
 ###
 
-###
-
 📚 Estou estudando Lógica de Programação fortalecendo a minha base de programação!
-
-###
 
 ###
 
@@ -40,7 +36,7 @@ Sobre mim
 
 ###
 
-Habilidades
+###Habilidades
 
 ###
 <div align="left">
@@ -55,7 +51,7 @@ Habilidades
 
 ###
 
-Redes sociais
+###Redes sociais
 
 ###
 <div align="left">
